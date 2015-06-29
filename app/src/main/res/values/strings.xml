@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Football Stats</string>
+    <string name="shortname">Shortname: %s</string>
+    <string name="yeear">Season: %s</string>
+    <string name="number_teams">Number of Teams: %d</string>
+    <string name="number_games">Number of Games: %d</string>
+    <string name="competition">Competitions</string>
+    <string name="team">Team</string>
+    <string name="action_settings">Settings</string>
+    <string name="table">Table</string>
+    <string name="loading">Loading…</string>
+    <string name="settings">Settings</string>
+
+    <string name="code_name">Code: %s</string>
+    <string name="squadvalue">Squad value: %s</string>
+
+</resources>
